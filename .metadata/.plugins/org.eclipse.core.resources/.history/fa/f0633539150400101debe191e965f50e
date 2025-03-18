@@ -1,0 +1,5 @@
+package com.journaldev.design.lib_observer;
+
+public class Librarian {
+
+}
