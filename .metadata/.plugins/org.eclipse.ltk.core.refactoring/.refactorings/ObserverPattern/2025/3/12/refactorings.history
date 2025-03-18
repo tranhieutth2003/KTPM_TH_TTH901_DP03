@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.journaldev.design.task_observer.Subject.java&apos; to &apos;TaskSubject.java&apos;&#x0D;&#x0A;- Original project: &apos;ObserverPattern&apos;&#x0D;&#x0A;- Original element: &apos;com.journaldev.design.task_observer.Subject.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.journaldev.design.task_observer.TaskSubject.java&apos;" description="Rename compilation unit &apos;Subject.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;com.journaldev.design.task_observer{Subject.java" name="TaskSubject.java" references="false" stamp="1742301583290" version="1.0"/>
+</session>
