@@ -1,0 +1,5 @@
+package com.journaldev.design.singleton;
+
+public class Library {
+
+}
