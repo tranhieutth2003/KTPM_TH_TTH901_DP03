@@ -1,0 +1,5 @@
+package com.journaldev.design.observer;
+
+public class ObserverPatternTest {
+
+}
