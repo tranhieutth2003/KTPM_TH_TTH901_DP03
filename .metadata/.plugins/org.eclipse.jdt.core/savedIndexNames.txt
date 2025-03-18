@@ -1,4 +1,2 @@
-INDEX VERSION 1.134+T:\21132901_TranTrungHieu_ObserverPatternPractice\.metadata\.plugins\org.eclipse.jdt.core
-2470116936.index
-4143120213.index
+INDEX VERSION 1.134+D:\1_NhungThuTrenDektop\KTTKPM\KTPM_TH_TTH901_DP03\.metadata\.plugins\org.eclipse.jdt.core
 1865797976.index
